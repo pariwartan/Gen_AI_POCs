@@ -1,0 +1,5 @@
+1. create your environment 
+2. conda create -p myenv python=4 -y
+3. conda activate myenv
+4.create requiremnt file & run> pip install -r requirements.txt
+5.run> streamlit run customeDataPrompting.py 
